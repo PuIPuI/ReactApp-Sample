@@ -38,13 +38,13 @@ class App extends Component{
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="mr-auto" navbar>
               <NavItem>
-                <NavLink href="/ReactApp-Sample/users">Users</NavLink>
+                <NavLink href="/users">Users</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/ReactApp-Sample/posts">Posts</NavLink>
+                <NavLink href="/posts">Posts</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/ReactApp-Sample/chat">Chat</NavLink>
+                <NavLink href="/chat">Chat</NavLink>
               </NavItem>
               </Nav>
             
